@@ -1,0 +1,143 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: linear-gradient(to left, #000000, #000000),
+    linear-gradient(to left, #ffffff, #ffffff);
+  padding: 56px 73px 56px 73px;
+  display: flex;
+  flex-direction: column;
+  gap: 220px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.main-menu {
+  flex-shrink: 0;
+  width: 1265px;
+  height: 37px;
+  position: relative;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - -325.5px);
+  top: 50%;
+  translate: 0 -50%;
+}
+.home2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+}
+.hrishikesh-nair {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.hero-section {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 1176px;
+  height: 339px;
+  position: relative;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.i-am-a-creative-developer-aspiring-product-developer-who-has-worked-as-a-software-developer-for-over-3-years-where-i-worked-on-various-projects-and-along-with-technical-skills-i-developed-problem-solving-and-organizational-skills-as-a-developer-having-ai-skills-are-essential-so-over-the-summer-i-focused-on-building-ai-powered-applications-to-strengthen-my-skills-with-ll-ms-rag-systems-and-agents {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: -18px;
+  top: 89px;
+  width: 1114px;
+  height: 34px;
+}
+.frame-2 {
+  background: #a8ff35;
+  border-radius: 40px;
+  width: 227px;
+  height: 57px;
+  position: absolute;
+  left: 455px;
+  top: 282px;
+  overflow: hidden;
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.hrishikesh-nair-university-of-maryland-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
